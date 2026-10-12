@@ -1,0 +1,6 @@
+{
+  "name": "سامانه صدور مجوز کارورزی فرهنگیان",
+  "description": "سامانه مدیریت و صدور مجوز کارورزی دانشجویان دانشگاه فرهنگیان با قابلیت تنظیم قالب، ورود و چاپ فرم‌ها و خروجی اکسل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
